@@ -86,7 +86,7 @@ Additionally, the script allows the user to provide custom data for PLS model ca
 
 To attribute credit to the author of the software, please refer to the following Journal Paper.
 
-E. Arnese-Feffin, P. Facco, F. Bezzo, and  M. Barolo (2024): Systematizing product design by latent-variable modeling ‒ A unifying framework for the formulation and solution of PLS model-inversion problems. _Chemical Engineering Science_ *299*, 120505. DOI: [10.1016/j.ces.2024.120505](https://doi.org/10.1016/j.ces.2024.120505).
+E. Arnese-Feffin, P. Facco, F. Bezzo, and  M. Barolo (2024): Systematizing product design by latent-variable modeling ‒ A unifying framework for the formulation and solution of PLS model-inversion problems. _Chemical Engineering Science_ **299**, 120505. DOI: [10.1016/j.ces.2024.120505](https://doi.org/10.1016/j.ces.2024.120505).
 
 ## License agreement
 
